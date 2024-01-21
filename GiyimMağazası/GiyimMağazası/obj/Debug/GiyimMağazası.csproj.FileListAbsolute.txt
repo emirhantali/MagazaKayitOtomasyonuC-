@@ -1,0 +1,357 @@
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.exe.config
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.exe.manifest
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.application
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.exe
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.pdb
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Core.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Identity.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Buffers.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.Data.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Permissions.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Json.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.ValueTuple.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Core.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Identity.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Buffers.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.Data.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Permissions.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Json.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\System.ValueTuple.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.AssemblyReference.cache
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.exe.config
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form1.resources
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form2.resources
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Properties.Resources.resources
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.GenerateResource.cache
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.TrustInfo.xml
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.exe.manifest
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.application
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.CopyComplete
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.exe
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.pdb
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form3.resources
+C:\Users\Emirhan\source\repos\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form4.resources
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.exe.config
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.exe.manifest
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.application
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.exe
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.pdb
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Core.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Identity.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Buffers.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.Data.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Permissions.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Json.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.ValueTuple.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Core.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Identity.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Buffers.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.Data.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Permissions.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Json.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\System.ValueTuple.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.AssemblyReference.cache
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.exe.config
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form1.resources
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form2.resources
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form3.resources
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form4.resources
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Properties.Resources.resources
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.GenerateResource.cache
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.CoreCompileInputs.cache
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.TrustInfo.xml
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.exe.manifest
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.application
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.CopyComplete
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.exe
+C:\Users\Yağız\Desktop\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.pdb
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.exe.config
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.exe.manifest
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.application
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.exe
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.pdb
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Core.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Identity.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Buffers.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.Data.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Permissions.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Json.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.ValueTuple.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Core.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Identity.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Buffers.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.Data.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Permissions.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Json.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\System.ValueTuple.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.AssemblyReference.cache
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.exe.config
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form1.resources
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form2.resources
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form3.resources
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form4.resources
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Properties.Resources.resources
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.GenerateResource.cache
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.CoreCompileInputs.cache
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.TrustInfo.xml
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.exe.manifest
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.application
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.CopyComplete
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.exe
+C:\Users\Yağız\Desktop\görsel programlama\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.pdb
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.exe.config
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.exe.manifest
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.application
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.exe
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\GiyimMağazası.pdb
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Core.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Identity.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Buffers.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.Data.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Permissions.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Json.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.ValueTuple.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Core.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Azure.Identity.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Buffers.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Memory.Data.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Permissions.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Text.Json.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\System.ValueTuple.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.AssemblyReference.cache
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.exe.config
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form1.resources
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form2.resources
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form3.resources
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Form4.resources
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.Properties.Resources.resources
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.GenerateResource.cache
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.CoreCompileInputs.cache
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.TrustInfo.xml
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.exe.manifest
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.application
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.csproj.CopyComplete
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.exe
+C:\Users\Yağız\Desktop\YağızBektaş-220111675-BBP201\GiyimMağazası\GiyimMağazası\obj\Debug\GiyimMağazası.pdb
